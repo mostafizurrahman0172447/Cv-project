@@ -1,0 +1,123 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width:1000px;
+    background-color: #E4F9F5 ;
+    margin:0 auto;
+    padding:5px;
+}
+header{
+
+}
+ 
+.profile-img{
+    width:100px;
+    height:120px;
+    border:3px solid black;
+    border-radius:50%;
+    float:left;
+}
+.header-bio{
+      float:left;
+      padding:30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color:#11999e;
+}
+.header-contact{
+    float:right;
+    padding:30px;
+   
+}
+
+.header-contact a{
+    color:teal;
+    text-decoration:none;
+    font-weight:bold;
+
+}
+.header-contact a:hover{
+    color:tomato;
+    text-decoration:underline;
+
+}
+     
+.clear-div{
+    clear:both;
+}
+hr{
+    border:3px solid black;
+    width:100%;
+  margin:20px auto;
+  border-bottom:none;
+
+ 
+}
+
+#personal{
+
+}
+.content{
+
+}
+.left-div{
+    width:30%;
+    float:left;
+
+}
+.right-div{
+    width:70%;
+    float:left;
+
+}
+.common-hr{
+    border:1px solid black;
+    width:100%;
+    border-bottom:none;
+    margin:20px auto;
+}
+
+.edu-template-left{
+    width:45%;
+    float:left;
+
+}
+
+.edu-template-right{
+    width:45%;
+    float:right;
+    
+}
+.referece-left{
+    width:45%;
+    float:left;
+}
+
+.referece-right{
+    width:45%;
+    float:right;
+}
+a{ color:aqua;
+    padding:20px;
+    margin:20px auto;
+  
+    text-decoration: none;
+}
+.footer-link{
+    background-color: black;
+    text-align: center;
+}
+.footer-link p{ 
+    color:aqua;
+    text-align: center;
+    margin-top:20px;
+}
+.footer-link a{
+  padding:20px;
+}
